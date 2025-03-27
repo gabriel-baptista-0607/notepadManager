@@ -1,7 +1,11 @@
 import React from "react";
 
 const Anotacoes = () => {
-  return <div>Anotacoes</div>;
+  return (
+    <div>
+      <h2>Anotacoes</h2>
+    </div>
+  );
 };
 
 export default Anotacoes;

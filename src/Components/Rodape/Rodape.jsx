@@ -11,7 +11,7 @@ const Rodape = () => {
           margin: "5px",
         }}
       >
-        oi
+        Este é rodapé
       </footer>
     </div>
   );
