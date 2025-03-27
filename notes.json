@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "author": "user",
+    "title": "Relatório MesaJá",
+    "description": "Este é um relatório do app MesaJá",
+    "date": "27/03/2025",
+    "shared": true,
+    "edited": true
+  },
+  {
+    "id": 1,
+    "author": "user",
+    "title": "Olá, Mundo!",
+    "description": "Mina anotação no Notepad Manager",
+    "date": "27/03/2025",
+    "shared": true,
+    "edited": true
+  },
+  {
+    "id": 2,
+    "author": "user",
+    "title": "Receita de Pudim",
+    "description": "Receita de Pudim",
+    "date": "27/03/2025",
+    "shared": true,
+    "edited": true
+  },
+  {
+    "id": 3,
+    "author": "user",
+    "title": "Anotações aulas dia 27/03",
+    "description": "Fundamentos da engenharia",
+    "date": "27/03/2025",
+    "shared": true,
+    "edited": true
+  }
+]
